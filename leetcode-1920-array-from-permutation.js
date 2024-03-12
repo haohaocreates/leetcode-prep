@@ -1,3 +1,5 @@
+// 1 pass, O(n) time complexity, O(n) space complexity
+
 const buildArray = (nums) => {
 
     // 1 pass 
