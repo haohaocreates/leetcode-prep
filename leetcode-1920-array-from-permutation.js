@@ -10,7 +10,6 @@ const buildArray = (nums) => {
     let ans = []
     nums.forEach((num) => {
         ans.push(nums[num]);
-        console.log(ans);
     })
     return ans;
 }
