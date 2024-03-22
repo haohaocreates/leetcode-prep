@@ -1,7 +1,7 @@
 # leetcode-prep
 interview preparation repo
 
-# week 1 
+# week 1 (March 11 - March 18)
 
 ### list 1
 - maximum average sum
